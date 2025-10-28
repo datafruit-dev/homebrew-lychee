@@ -1,8 +1,8 @@
 class Lychee < Formula
   desc "Browser-based interface for Claude Code"
   homepage "https://github.com/datafruit-dev/lychee"
-  url "https://github.com/datafruit-dev/lychee/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "6e34bc87f0b1b593005181c4488140fc8a9fc88b314c856a947801e5dd9ed8e1"
+  url "https://github.com/datafruit-dev/lychee/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "5734d3f495c777dd7fecabec29b7039c92a544ad81c151f519cbdcef19b1a619"
   license "MIT"
   head "https://github.com/datafruit-dev/lychee.git", branch: "main"
 
