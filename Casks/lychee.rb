@@ -1,6 +1,6 @@
 cask "lychee" do
   version "0.2.0"
-  sha256 "593ad9add9513a0266ddc7bb083e7e4bcac7e1c9cebfc95419f097eda0231d88" # Will be calculated when you create a GitHub release
+  sha256 "961ad4f2d652756cafd1245d84e665e58571fdb8a31cca11b9fa0543bd9204cb" # Will be calculated when you create a GitHub release
 
   url "https://github.com/datafruit-dev/lychee/releases/download/v#{version}/Lychee_#{version}_aarch64.dmg"
   name "Lychee"
